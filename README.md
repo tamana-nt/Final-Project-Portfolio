@@ -21,4 +21,4 @@ This portfolio project serves as a digital showcase of my growth as a web develo
 - [GitHub Repository]([https://github.com/tamana-nt/Final-Project-Portfolio])
 - [Live Website](https://yourusername.github.io/final-project-portfolio/)
 
-Thank you for visiting my portfolio! Feel free to explore and reach out if you have any questions or opportunities to collaborate.
+Thank you for visiting my portfolio! Feel free to explore and reach out if you have any opportunities to collaborate.
