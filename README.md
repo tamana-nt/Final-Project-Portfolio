@@ -18,7 +18,7 @@ This portfolio project serves as a digital showcase of my growth as a web develo
 3. **Quote Generator**: This tool allows users to generate random quotes at the click of a button. It highlights my ability to work with APIs, dynamically update content, and create a user-friendly interface for displaying inspirational quotes.
 
 ## Links:
-- [GitHub Repository](https://github.com/yourusername/final-project-portfolio)
+- [GitHub Repository]([https://github.com/yourusername/final-project-portfolio](https://github.com/tamana-nt/Final-Project-Portfolio))
 - [Live Website](https://yourusername.github.io/final-project-portfolio/)
 
 Thank you for visiting my portfolio! Feel free to explore and reach out if you have any questions or opportunities to collaborate.
